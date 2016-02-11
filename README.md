@@ -1,6 +1,6 @@
 # Crypto Block Cyphers
 
-Depends `ant` to build.
+Depends on `ant` to build.
 
 ## Building
 
@@ -18,5 +18,5 @@ java -jar crypto-block-ciphers.jar
 To run individual files
 
 ```
-java -cp build <ClassName>
+java -cp build <classname>
 ```
