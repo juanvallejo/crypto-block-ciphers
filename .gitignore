@@ -1,0 +1,5 @@
+.DS_Store
+build/
+*.jar
+*/*.jar
+dist/
