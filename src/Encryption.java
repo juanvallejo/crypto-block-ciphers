@@ -5,6 +5,7 @@ import javax.crypto.spec.SecretKeySpec;
 
 /**
  * Juan Vallejo / Cory Bowles
+ * Ciphertext: [E5, 0E, A6, 1E, 50, A3, D2, 69]
  */
 
 public class Encryption {

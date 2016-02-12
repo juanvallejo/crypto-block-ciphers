@@ -1,6 +1,11 @@
 # Crypto Block Cyphers
 
-Depends on `ant` to build.
+Depends on [Apache ant](http://ant.apache.org/) to build.
+
+## Answers
+
+Project answers are found in the `doc` directory
+under the filename `Project_Answers.pdf`
 
 ## Building
 

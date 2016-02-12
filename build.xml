@@ -83,6 +83,13 @@ Broken???
         description="clean up" >
     <!-- Delete the ${build} directory-->
     <delete dir="${build}"/>
+    <delete>
+      <fileset dir="doc/" includes="*.log" />
+      <fileset dir="doc/" includes="*.fls" />
+      <fileset dir="doc/" includes="*.aux" />
+      <fileset dir="doc/" includes="*.fdb_latexmk" />
+      <fileset dir="doc/" includes="*.synctex.gz" />
+    </delete>
   </target>
 </project>
 

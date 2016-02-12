@@ -5,6 +5,7 @@ import javax.crypto.spec.SecretKeySpec;
 
 /**
  * Juan Vallejo / Cory Bowles
+ * Plaintext: CPSC 428
  */
 
 public class Decryption {
