@@ -4,8 +4,8 @@ import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 
 /**
- * Juan Vallejo / Cory Bowles
  * Ciphertext: [E5, 0E, A6, 1E, 50, A3, D2, 69]
+ * @author juanvallejo / Cory Bowles
  */
 
 public class Encryption {

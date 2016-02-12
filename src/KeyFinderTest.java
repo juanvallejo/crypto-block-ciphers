@@ -4,7 +4,7 @@ import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 
 /**
- * Juan Vallejo / Cory Bowles
+ * @author juanvallejo / Cory Bowles
  */
 
 public class KeyFinderTest {

@@ -6,6 +6,7 @@ import javax.crypto.spec.SecretKeySpec;
 /**
  * Plaintext is "Good Job"
  * Key is [BA, 54, 68, 08, 12, D4, C6, 9E]
+ * @author juanvallejo / Cory Bowles
  */
 
 public class CodeBreaker {

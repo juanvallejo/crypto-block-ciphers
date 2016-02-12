@@ -4,15 +4,16 @@ import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 
 /**
- * Found eight potential keys.
- * [90, 4E, F2, CC, 86, 02, 4A, 16] *works
- * [90, 4E, F2, CC, 86, 02, 4B, 16] *works
- * [90, 4E, F2, CC, 86, 03, 4A, 16] *works
- * [90, 4E, F2, CC, 86, 03, 4B, 16] *untested
- * [90, 4E, F2, CC, 87, 02, 4A, 16] *untested
- * [90, 4E, F2, CC, 87, 02, 4B, 16] *untested
- * [90, 4E, F2, CC, 87, 03, 4A, 16] *untested
- * [90, 4E, F2, CC, 87, 03, 4B, 16] *untested
+ * Found eight keys
+ * [90, 4E, F2, CC, 86, 02, 4A, 16]
+ * [90, 4E, F2, CC, 86, 02, 4B, 16]
+ * [90, 4E, F2, CC, 86, 03, 4A, 16]
+ * [90, 4E, F2, CC, 86, 03, 4B, 16]
+ * [90, 4E, F2, CC, 87, 02, 4A, 16]
+ * [90, 4E, F2, CC, 87, 02, 4B, 16]
+ * [90, 4E, F2, CC, 87, 03, 4A, 16]
+ * [90, 4E, F2, CC, 87, 03, 4B, 16]
+ * @author juanvallejo / Cory Bowles
  */
 
 public class KeyFinder {
